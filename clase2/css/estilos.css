@@ -4,7 +4,7 @@
     padding :0;
 }
 body{
-    background-color : black;
+    background-color: white;
     
 }
 #contenido{
@@ -17,21 +17,50 @@ body{
 #header{
     width: 900px;
     height: 150px;
-    background-color: rgb(36px, 12px, 11px);
+    background-color: grey ;
+}
+#logo{
+    width: 250px;
+    height: 200px;
+    background-color: red;
+    float: left;
+}
+#titulo{
+    width: 250px;
+    height: 150px;
+    background-color: blue;
+    float: left;
 }
 #menu{
-    width: 900px;
+    width: 1000px;
     height: 50px;
-    background-color: rgb(12px, 44px,34px);
+    background-color:green ;
 }
 #centro{
     width: 900px;
     height: 150px;
-    background-color : rgb(26px, 12px, 10px);
+    background-color : white ;
 }
 #footer{
-    width: 900px;
+    width: 1000px;
     height: 50px;
-    background-color : rgb(23px, 45px, 11px);
+    background-color : yellow ;
 
+}
+#banner{
+        width: 1000px;
+    height: 200px;
+    background-color :blue;
+
+}
+#aside{
+    width: 1000px;
+    height: 500px;
+    background-color: chocolate;
+}
+#article{
+    width: 700px;
+    height: 500px;
+    background-color:plum;
+    float: left;
 }
